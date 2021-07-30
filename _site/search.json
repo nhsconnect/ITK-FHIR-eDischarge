@@ -221,18 +221,6 @@
 
 	{
 		
-		"title": "Access",
-		"tags": "design",
-		"keywords": "design, build, access, security",
-		"url": "design_distribution.html",
-		"summary": "The Access page shows developers and users of the API how to access and call the API",
-		"content": "<div class=\"alert alert-warning\" role=\"alert\"><i class=\"fa fa-warning\"></i> <b>Important:</b> All phases outlined below are indicative and subject to on-going review.</div>\n\n<h1 id=\"what-is-api-access\">What is API Access?</h1>\n\n<p>API access is the process of ensuring that calls to APIs with authenticated logins are able to access the APIs. API products are also a good way to control access to a specific bundle of resources/profiles or aspects of information.</p>\n\n<p>This implementation guide identifies the need to manage any exposed APIs. When access control and monitoring is combined while creating an API, this can empower API implementing organisations to improve, control, limit and deny access to APIs and therefore the underlying data in a consistent mechanism. When APIs are the central mechanism for authorization and access control to your APIs.</p>\n\n<p>API access control measures need to be defined alongside API creation and need to look for:</p>\n<ul>\n  <li>enforcement of authorisation</li>\n  <li>security of Payload and access</li>\n  <li>matching security with scope of use</li>\n  <li>access and approval for particular resources</li>\n</ul>\n\n<p>A possible mechanism for providing access to APIs is the provision of API keys for access to the APIs being provided. Please contribute for other common access methods and add to the <a href=\"/engage_case_studies.html\">Case Studies</a> to show various access mechanisms to APIs.</p>\n\n<h1 id=\"access-and-itk3-edischarges\">Access and ITK3 eDischarges</h1>\n\n<p>Access to APIs needs to considered at the design phase to include the process of managing and maintaing valid and consistant APIs. The following design considerations become increasingly important as an accessible API moves through Test to Assure to Deployed.</p>\n\n<ul>\n  <li>Endpoints</li>\n  <li>Report &amp; Monitoring</li>\n  <li>Traffic Management</li>\n  <li>Transformation</li>\n  <li>Versioning</li>\n</ul>\n\n<p>For more information on the wider design decisions involved in providing safe access to information please see:</p>\n\n<ul>\n  <li><a href=\"/engage_case_studies.html\">Case Studies</a> illustrates access decisions used to solve the challenges faced within the context and design patterns encountered.</li>\n</ul>\n\n<div class=\"alert contribute contribute-warning\" role=\"alert\"><i class=\"fa fa-warning\"></i> <b>Contribute:</b> Provide design patterns and API usage case studies by getting in touch with careconnect@interopen.org </div>\n\n"
-		
-	}
-	,
-
-	{
-		
 		"title": "Product Versioning",
 		"tags": "development",
 		"keywords": "development, versioning",
