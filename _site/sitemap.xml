@@ -79,9 +79,6 @@
 <loc>http://localhost:4005/explore_clinical_summary.html</loc>
 </url>
 <url>
-<loc>http://localhost:4005/explore_defs_overview.html</loc>
-</url>
-<url>
 <loc>http://localhost:4005/explore_diagnoses.html</loc>
 </url>
 <url>
@@ -92,9 +89,6 @@
 </url>
 <url>
 <loc>http://localhost:4005/explore_document_profiles.html</loc>
-</url>
-<url>
-<loc>http://localhost:4005/explore_eDischarge_def.html</loc>
 </url>
 <url>
 <loc>http://localhost:4005/explore_gp_practice.html</loc>
